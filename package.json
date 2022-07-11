@@ -6,6 +6,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "@thirdweb-dev/react": "^2.4.8",
+    "@thirdweb-dev/sdk": "^2.3.24",
+    "ethers": "^5.6.9",
     "next": "latest",
     "react": "18.1.0",
     "react-dom": "18.1.0"
