@@ -41,7 +41,8 @@ React js
 Next js 
 Typescript  
 Tailwind CSS  
-Web3
+Web3 Toolings:
 Metamask wallet  
 Sanity CMS for backend  
 Thirdweb for powering NFTs
+Netlify Deployment
