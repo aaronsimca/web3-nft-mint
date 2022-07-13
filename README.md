@@ -37,12 +37,4 @@ npx sanity deploy
 nftmintdrop69.sanity.studio
 
 # Tech Stack used 
-React js 
-Next js 
-Typescript  
-Tailwind CSS  
-Web3 Toolings:
-Metamask wallet  
-Sanity CMS for backend  
-Thirdweb for powering NFTs
-Netlify Deployment
+React js, Next js, Typescript, Tailwind CSS, Web3 Toolings: Metamask wallet, Sanity CMS for backend, Thirdweb for powering NFTs, Netlify Deployment
