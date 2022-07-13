@@ -21,3 +21,27 @@ pnpm create next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+
+# Stuck at Sanity due to error 
+Video completion till: 
+https://youtu.be/BOy7lOVU8Zo?t=1230 
+
+# Sanity error resolved 
+CLI error solved
+
+# Sanity Deployment
+(Access to backend with your own google account)
+(sanity.io)
+npx sanity deploy
+nftmintdrop69.sanity.studio
+
+# Tech Stack used 
+React js 
+Next js 
+Typescript  
+Tailwind CSS  
+Web3
+Metamask wallet  
+Sanity CMS for backend  
+Thirdweb for powering NFTs
